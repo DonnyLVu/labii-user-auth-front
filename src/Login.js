@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class HomePage extends Component {
+export default class Login extends Component {
     render() {
         return (
             <div>
-                THIS IS THE HOME PAGE
+                Log in Page
             </div>
         )
     }
